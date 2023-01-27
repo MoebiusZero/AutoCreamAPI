@@ -1,3 +1,8 @@
+#####NOTE####
+I did not write this application, all I did was simply compile it for use so you don't have to compile it yourself!
+Below is the original Read Me file from the original creator. 
+#############
+
 # Auto-CreamAPI 2
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H4330U3)
 
